@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\bin\Debug\net6.0\Lab3 Exponents.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\bin\Debug\net6.0\Lab3 Exponents.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\bin\Debug\net6.0\Lab3 Exponents.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\bin\Debug\net6.0\Lab3 Exponents.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\bin\Debug\net6.0\Lab3 Exponents.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\refint\Lab3 Exponents.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\Lab3 Exponents.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab3 Exponents\obj\Debug\net6.0\ref\Lab3 Exponents.dll
